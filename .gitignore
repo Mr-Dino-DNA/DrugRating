@@ -1,0 +1,14 @@
+*.pdf
+*.csv
+*.md
+!README.md
+*.json
+*.txt
+!requirements.txt
+__pycache__/
+v2/
+Drug_Benchmarking/
+Source_Docs/
+*.xml
+**/chembl_36/**
+**/ml/models/**

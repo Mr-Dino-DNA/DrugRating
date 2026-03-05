@@ -1,0 +1,21 @@
+# Database
+psycopg2-binary>=2.9.9
+
+# Chemistry
+rdkit>=2023.9.1
+
+# Data Processing
+pandas>=2.1.0
+numpy>=1.24.0
+
+# XML Parsing
+lxml>=4.9.0
+
+# Environment Variables
+python-dotenv>=1.0.0
+
+# Progress Bars
+tqdm>=4.66.0
+
+# HTTP Requests (for API calls)
+requests>=2.31.0
